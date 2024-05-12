@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nibrasaamir
 - 👀 I’m interested in learning blockchain
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently doing BS in Data Science 
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me nibras.mal@gmail.com
 
